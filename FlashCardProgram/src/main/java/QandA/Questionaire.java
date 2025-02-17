@@ -9,6 +9,7 @@ public class Questionaire implements Questioinaire {
     ArrayList<Frage> fragen=new ArrayList<>();
 
     public void frageHinzufuegen(Frage frage){
+        //this is a line I am putting here to test the Github platform
 
         fragen.add(frage);
 
